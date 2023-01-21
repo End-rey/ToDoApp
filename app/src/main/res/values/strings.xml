@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="et_username">Username</string>
+    <string name="et_password">Password</string>
+    <string name="et_first_name">First name</string>
+    <string name="b_sign_in">Sign In</string>
+    <string name="b_register">Register</string>
+    <string name="b_main_logout">Logout</string>
+</resources>
